@@ -3,3 +3,4 @@ simple gui for a chess game, you can play by moving the pieces by dragging them 
 
 # limitations
 en passant, castling and promotion not implemented yet. The way the code avaliates the vality of a movement, as well as tests for check, checkmate or stalemate, has to be reformulated to easily handle those more complex piece movements.
+![Captura de tela 2023-10-10 231639](https://github.com/JosalbertoTizon/chess_game/assets/129426842/9667b401-7619-4a2f-b57c-bee036ef3bce)
