@@ -6,4 +6,5 @@ en passant, castling and promotion not implemented yet. The way the code avaliat
 
 # game example
 
+
 ![Captura de tela 2023-10-10 231639](https://github.com/JosalbertoTizon/chess_game/assets/129426842/9667b401-7619-4a2f-b57c-bee036ef3bce)
